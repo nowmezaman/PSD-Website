@@ -1,0 +1,1040 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : January 18, 2017
+    Author     : Nowme Zaman
+*/
+
+@media(max-width: 767px){
+     
+ .logo{
+   padding-left: 18px; 
+    }
+       h1{
+   font-size: 16px;     
+    }
+    h2{
+  font-size: 14px;         
+    }
+    h4{
+  font-size: 12px;         
+    }
+ .navbar-nav > .menu > .border{
+  width: 130px;
+}    
+    .collapsed{
+        margin: 0px auto;
+    }    
+.author{
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+}
+ .about{
+ font-size: 16px;
+ color: #58595b;
+ padding-top: 20px;
+ text-transform: uppercase;
+ text-align: center;
+ }
+  .body_para{
+    margin-top: 30px;
+    font-size: 16px;
+padding-left: 15px;
+    text-transform: uppercase;
+    font-family: monospace;
+ }
+ .header_title > p{
+font-family: Digicity_regular;
+font-weight: bold;
+color: white;
+font-size: 40px;
+margin-bottom: 0px;
+ }    
+ .sign > button{
+    width: 100%;
+    background: #47b6b4 !important;
+    color: white !important;
+    border-radius: 0px !important;
+    border-color: #47b6b4 !important;
+ }
+.sign_xs{
+padding-top: 100px;
+}
+ .book2{
+    position: absolute;
+    bottom: -38px;
+    left: 97px;
+    }
+    .book3{
+    position: absolute;
+    top: 244px;
+    left: 138px;        
+    }    
+ .button_wd_arrow > img{
+display: inline-block;
+    margin-left: -35px;
+    padding-bottom: 33px;
+}  
+.button_wd_arrow > button{
+ background: #44b2b0;
+ border-radius: 0px;
+color: white;
+padding: 10px 40px;
+border-color: #44b2b0 !important;
+text-transform: uppercase;
+font-size: 14px;
+display: inline-block;
+} 
+ .service {
+    padding-bottom: 30px;
+}
+ .nav > li{
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.links> li{
+display: inline;
+list-style-type: none;  
+padding-right: 10px;
+/*    padding-top: 15px;*/
+} 
+/*psd3*/
+
+.photo_pin_1{
+    position: absolute;
+    left: 5px;
+    bottom: 325px;
+ }
+ .photo_pic_1{
+position: absolute;
+    top: 16px;
+    left: 27px;     
+ }
+ .photo_comment_1{
+    position: absolute;
+    top: 246px;
+    left: 52px;     
+ } 
+ .photo_pin_3{
+ position: absolute;
+    left: 4px;
+    top: 0px;
+ }  
+ .photo_pic_3{
+     position: absolute;
+    left: 27px;
+    bottom: 108px;
+ }
+ .photo_comment_3{
+      position: absolute;
+    bottom: 40px;
+    left: 67px;
+
+ }
+ .photo_comment_2{
+      position: absolute;
+    top: 245px;
+    left: 22px;
+   
+ }
+ .book_pic{
+background: url('../images/photo7.png') no-repeat;
+background-size: cover;
+background-position: center center;
+    min-height: 503px;
+     
+ }
+ .second_photo {
+    background: url(../images/photo2.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 272px;
+    width: 100%;
+ }
+   .body_img1{
+background: url('../images/body_bg.png') no-repeat;
+background-size: cover;
+background-position: center center;   
+ }
+ .buy_now > button{
+ border-radius: 0px;
+ background-color: #45b4b2;
+color: white;
+    padding: 15px 46px;
+    margin-top: 11px;
+font-weight: bold;
+ } 
+     .commentator{
+        color: #3eb8b5;
+        font-weight: bold;
+        padding-top: 12px;
+    }
+
+/*psd4    */
+ 
+ h3{
+    font-size: 13px;
+}
+h2{
+    font-size: 16px;
+}
+    
+    h5{
+  font-size: 12px;         
+    }
+ .about1{
+ font-size: 16px;
+ color: #58595b;
+ padding-top: 20px;
+
+ text-transform: uppercase;
+ text-align: center;
+ }   
+  .body_para1{
+    margin-top: 30px;
+    font-size: 16px;
+padding-left: 15px;
+    text-transform: uppercase;
+    font-family: monospace;
+ }
+.reserve > img{
+    padding-top: 15px;  
+}
+ .reinvent_img{
+    background: url(../images/.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 168px;
+    width: 100%;
+padding-top: 30px;
+}
+.miracle > h3{
+color: white; 
+font-weight: bold;
+font-family: retroitalics;
+text-align: center;
+}
+.miracle > h3 > span{
+color: #00fffb;    
+}
+.gift > h2{
+ color: #46bdbe;
+    font-family: inherit;
+}
+.reinvent > h2{
+    color: #7a0099;
+    font-family: exmouth_;
+     font-weight: bold;
+    font-size: 28px;
+}
+.reinvent > h2 > span{
+    color: #46bdbe;
+ font-family: exmouth_;
+ font-weight: bold;
+}
+.media-body {
+    padding-bottom: 30px;
+}
+ .author1 > div > img:first-child{
+padding-bottom: 12px;
+padding-top: 20px;
+}
+.logo2{
+    margin-top: 16px; 
+    margin-bottom: 23px;
+    display: inline-block;
+}
+  .author1{
+color: #58595b;
+margin-top: 24px;
+margin-bottom: 24px; 
+text-align: center;
+display: inline-block;
+text-align: center;
+ } 
+ .author1 > span{
+  color: #46c1be;
+ }
+
+ 
+    
+}  
+    
+@media (min-width: 768px) and (max-width: 991px)  {
+ 
+   h1{
+   font-size: 22px;     
+    }
+    h2{
+  font-size: 20px;         
+    }
+    h4{
+  font-size: 14px;         
+    } 
+    .logo{
+   padding-left: 18px;     
+    }   
+ .about{
+ font-size: 30px;
+ color: #58595b;
+ padding-top: 20px;
+ text-transform: uppercase;
+ text-align: left;
+ }
+ .body_para{
+    margin-top: 37px;
+    font-size: 16px;
+    padding-right: 24px;
+    text-transform: uppercase;
+    font-family: monospace;
+ }
+  .line{
+    background: url(../images/line.png) no-repeat;
+    background-size: contain;
+    background-position: center left;
+    position: absolute;
+    width: 55%;
+    top: 74px;
+    left: 296px;
+    padding: 2px;
+ }
+.links> li{
+    display: inline;
+padding-left: 10px;
+    list-style-type: none;   
+} 
+.right_gap, .right_gap1{
+    margin-right: 10px;
+}
+.author{
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+    padding-left: 18px;
+} 
+        .header_title > p:first-child{
+        margin-bottom: -40px;
+        padding-top: 90px;
+    }    
+.header_title > p{
+padding-top: 20px;        
+font-family: Digicity_regular;
+font-weight: bold;
+color: white;
+font-size: 55px;
+margin-bottom: 0px;
+ }  
+ .service {
+    padding-bottom: 30px;
+}
+ .form_width {
+    width: 69%;
+}
+
+/*psd2*/
+  .sign > button{
+    width: 69%;
+    background: #47b6b4 !important;
+    color: white !important;
+    border-radius: 0px !important;
+    border-color: #47b6b4 !important;
+ }
+.button_wd_arrow > button{
+ background: #44b2b0;
+ border-radius: 0px;
+color: white;
+padding: 10px 40px;
+border-color: #44b2b0 !important;
+text-transform: uppercase;
+font-size: 14px;
+display: inline-block;
+}
+ .button_wd_arrow > img{
+display: inline-block;
+    margin-left: -30px;
+    padding-bottom: 33px;
+} 
+ .book2{
+    position: absolute;
+ bottom: -38px;
+    left: 136px;
+    }
+    .book3{
+    position: absolute;
+    top: 273px;
+    left: 205px;        
+    } 
+
+/*psd3*/
+
+    
+  h5{
+  font-size: 14px;         
+    }
+ .photo_pin_1{
+    position: absolute;
+    left: 5px;
+    bottom: 325px;
+ }
+ .photo_pic_1{
+position: absolute;
+    top: 16px;
+    left: 27px;     
+ }
+ .photo_comment_1{
+    position: absolute;
+    top: 246px;
+    left: 52px;     
+ } 
+ .photo_pin_3{
+ position: absolute;
+    left: 4px;
+    top: 0px;
+ }  
+ .photo_pic_3{
+     position: absolute;
+    left: 27px;
+    bottom: 108px;
+ }
+ .photo_comment_3{
+      position: absolute;
+    bottom: 40px;
+    left: 67px;
+
+ }
+ .photo_comment_2{
+      position: absolute;
+    top: 245px;
+    left: 22px; 
+ }
+ .book_pic{
+background: url('../images/photo7.png') no-repeat;
+background-size: cover;
+    background-position: center center;
+    min-height: 1096px;    
+ }
+ .body_img1{
+background: url('../images/body_bg.png') no-repeat;
+background-size: cover;
+background-position: center center;   
+ }
+.second_photo {
+    background: url(../images/photo2.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 282px;
+    width: 96%;
+}
+
+.buy_now > button{
+ border-radius: 0px;
+ background-color: #45b4b2;
+color: white;
+    padding: 15px 46px;
+    margin-top: 11px;
+    margin-left: 40px;
+font-weight: bold;
+ }
+    .commentator{
+        color: #3eb8b5;
+        font-weight: bold;
+        padding-top: 12px;
+        padding-left: 10px;
+    }   
+
+/*psd4    */
+    
+   h4{
+  font-size: 14px;         
+    }
+     .reinvent_img{
+    background: url(../images/photo2.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+
+}
+    .miracle > h3{
+color: white; 
+font-weight: bold;
+font-family: retroitalics;
+text-align: center;
+font-size: 20px;
+}
+.miracle > h3 > span{
+color: #00fffb;    
+}
+    .true_you > img{
+    margin: 170px 0px;    
+}
+.gift > h2{
+ color: #46bdbe;
+    font-family: inherit;
+}
+.reinvent > h2{
+    color: #7a0099;
+    font-family: exmouth_;
+     font-weight: bold;
+    font-size: 30px;
+}
+.reinvent > h2 > span{
+    color: #46bdbe;
+ font-family: exmouth_;
+ font-weight: bold;
+}
+.logo2{
+    width: 55px;
+    margin-top: -10px;
+    margin-bottom: 2px;
+    display: inline-block;
+}
+  .author1{
+  color: #58595b; 
+    margin-top: 25px;
+    margin-bottom: 22px; 
+    display: inline-block;
+ } 
+ .author1 > span{
+  color: #46c1be;
+ }  
+ .about1{
+ font-size: 30px;
+ color: #58595b;
+ padding-top: 20px;
+ text-transform: uppercase;
+ text-align: left;
+ }
+ .body_para1{
+    margin-top: 37px;
+    font-size: 16px;
+    padding-right: 24px;
+    text-transform: uppercase;
+    font-family: monospace;
+ }
+ .line{
+    background: url(../images/line.png) no-repeat;
+    background-size: contain;
+    background-position: center left;
+    position: absolute;
+    width: 55%;
+    top: 74px;
+    left: 296px;
+    padding: 2px;
+ }    
+ .media-body {
+    padding-bottom: 30px;
+}
+ 
+    
+    
+}
+
+@media (min-width: 992px) and (max-width: 1199px)  {
+
+ .logo{
+   padding-left: 18px;     
+    }
+   .author{
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+    padding-left: 18px;
+}
+    .about{
+ font-size: 30px;
+ color: #58595b;
+ padding-top: 20px;
+ text-transform: uppercase;
+ text-align: left;
+ }
+  .line{
+    background: url(../images/line.png) no-repeat;
+    background-size: contain;
+    background-position: center left;
+    position: absolute;
+    width: 58%;
+    top: 74px;
+    left: 296px;
+    padding: 2px;
+ }
+    .body_para{
+    margin-top: 37px;
+    font-size: 16px;
+    padding-right: 24px;
+    text-transform: uppercase;
+    font-family: monospace;
+ }
+ .links> li{
+    display: inline;
+padding-left: 10px;
+    list-style-type: none;   
+} 
+.right_gap, .right_gap1{
+    margin-right: 30px;
+}
+.header_title > p:last-child{
+        margin-top: -25px;
+    }    
+    .header_title > p{
+font-family: Digicity_regular;
+font-weight: bold;
+color: white;
+font-size: 55px;
+margin-bottom: 0px;
+ } 
+ .sign > button{
+    width: 100%;
+    background: #47b6b4 !important;
+    color: white !important;
+    border-radius: 0px !important;
+    border-color: #47b6b4 !important;
+ } 
+ .button_wd_arrow > button{
+ background: #44b2b0;
+ border-radius: 0px;
+color: white;
+padding: 10px 40px;
+border-color: #44b2b0 !important;
+text-transform: uppercase;
+font-size: 14px;
+display: inline-block;
+}  
+.book2{
+    position: absolute;
+ bottom: -38px;
+    left: 160px;
+    }
+    .book3{
+    position: absolute;
+    top: 273px;
+    left: 235px;        
+    } 
+ .button_wd_arrow > img{
+display: inline-block;
+    margin-left: -30px;
+    padding-bottom: 33px;
+}
+ .header_title{
+     padding-top: 80px;
+ }
+
+/* psd3*/
+ 
+.second_photo {
+    background: url(../images/photo2.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 302px;
+    width: 92%;
+    margin-left: 27px;
+}
+
+.photo_pin_1{
+    position: absolute;
+    left: 5px;
+    bottom: 325px;
+ }
+ .photo_pic_1{
+position: absolute;
+    top: 16px;
+    left: 27px;     
+ }
+ .photo_comment_1{
+    position: absolute;
+    top: 246px;
+    left: 52px;     
+ } 
+ .photo_pin_3{
+ position: absolute;
+    left: 4px;
+    top: 0px;
+ }  
+ .photo_pic_3{
+     position: absolute;
+    left: 27px;
+    bottom: 108px;
+ }
+ .photo_comment_3{
+      position: absolute;
+    bottom: 40px;
+    left: 67px;
+
+ }
+ .photo_comment_2{
+      position: absolute;
+    top: 245px;
+    left: 22px;
+   
+ }
+ .book_pic{
+background: url('../images/photo7.png') no-repeat;
+background-size: cover;
+background-position: center center;
+    min-height: 649px;
+    margin-left: 27px;   
+ }
+  .body_img1{
+background: url('../images/body_bg.png') no-repeat;
+background-size: cover;
+background-position: center center;   
+ }
+.buy_now > button{
+ border-radius: 0px;
+ background-color: #45b4b2;
+color: white;
+    padding: 15px 46px;
+    margin-top: 11px;
+    margin-left: 40px;
+font-weight: bold;
+ }
+     .commentator{
+        color: #3eb8b5;
+        font-weight: bold;
+        padding-top: 12px;
+        padding-left: 10px;
+    }
+
+
+/*psd4    */
+ 
+    .body_para1{
+    margin-top: 37px;
+    font-size: 16px;
+    padding-right: 24px;
+    text-transform: uppercase;
+    font-family: monospace;
+ }
+  .miracle > h3{
+color: white; 
+font-weight: bold;
+font-family: retroitalics;
+text-align: center;
+font-size: 20px;
+}
+.miracle > h3 > span{
+color: #00fffb;    
+}
+  .author1{
+  color: #58595b; 
+margin-top: 15px;
+    margin-bottom: 15px;
+ } 
+ .author1 > span{
+  color: #46c1be;
+ }
+    .about1{
+ font-size: 30px;
+ color: #58595b;
+ padding-top: 20px;
+ text-transform: uppercase;
+
+ }
+  .line{
+    background: url(../images/line.png) no-repeat;
+    background-size: contain;
+    background-position: center left;
+    position: absolute;
+    width: 58%;
+    top: 74px;
+    left: 296px;
+    padding: 2px;
+ }
+.true_you > img{
+    margin: 170px 0px;    
+}
+.gift > h2{
+ color: #46bdbe;
+    font-family: inherit;
+}
+ .reinvent_img{
+    background: url(../images/.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 196px;
+    width: 92%;
+    margin-left: 36px;
+}
+.reinvent > h2{
+    color: #7a0099;
+    font-family: exmouth_;
+     font-weight: bold;
+    font-size: 38px;
+}
+.reinvent > h2 > span{
+    color: #46bdbe;
+ font-family: exmouth_;
+ font-weight: bold;
+}
+.logo2{
+    width: 48px;
+    margin-top: -15px;
+    display: inline-block;
+}
+.author1{   
+    display: inline-block;
+}
+
+}
+@media (min-width: 1200px) {
+
+    .logo{
+   padding-left: 18px;     
+    }
+ .author{
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+    padding-left: 18px;
+}      
+.about{
+ font-size: 30px;
+ color: #58595b;
+ padding-top: 20px;
+ text-transform: uppercase;
+ text-align: left;
+ }
+.body_para{
+    margin-top: 37px;
+    font-size: 16px;
+    padding-right: 24px;
+    text-transform: uppercase;
+    font-family: monospace;
+ }
+ .line{
+    background: url(../images/line.png) no-repeat;
+    background-size: contain;
+    background-position: center left;
+    position: absolute;
+    width: 65%;
+    top: 74px;
+    left: 296px;
+    padding: 2px;
+ }
+ .links> li{
+    display: inline;
+padding-left: 10px;
+    list-style-type: none;   
+} 
+ .right_gap, .right_gap1{
+    margin-right: 30px;
+}
+
+/*psd2*/
+    .header_title > p:last-child{
+        margin-top: -35px;
+    }
+    .header_title > p{
+font-family: Digicity_regular;
+font-weight: bold;
+color: white;
+font-size: 66px;
+margin-bottom: 0px;
+ }   
+    h4{
+    font-size: 13px;    
+    }
+   .sign > button{
+    width: 100%;
+    background: #47b6b4 !important;
+    color: white !important;
+    border-radius: 0px !important;
+    border-color: #47b6b4 !important;
+ } 
+    
+ .button_wd_arrow > button{
+ background: #44b2b0;
+ border-radius: 0px;
+color: white;
+padding: 10px 40px;
+border-color: #44b2b0 !important;
+text-transform: uppercase;
+font-size: 14px;
+display: inline-block;
+}   
+.button_wd_arrow > img{
+display: inline-block;
+    margin-left: -30px;
+    padding-bottom: 33px;
+}   
+    .book2{
+    position: absolute;
+    bottom: -38px;
+    left: 162px;
+    }
+    .book3{
+    position: absolute;
+    top: 264px;
+    left: 242px;        
+    }    
+  .header_title{
+     padding-top: 95px;
+ }  
+     .service > p{
+font-size: 16px;
+ } 
+ 
+/*psd3*/
+    
+.photo_pin_1{
+    position: absolute;
+    left: 5px;
+    bottom: 325px;
+ }
+ 
+ .second_photo{
+    background: url(../images/photo2.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 358px;
+    width: 92%;
+    margin-left: 36px;
+}
+ .photo_pic_1{
+position: absolute;
+    top: 16px;
+    left: 27px;     
+ }
+ .photo_comment_1{
+    position: absolute;
+    top: 246px;
+    left: 52px;     
+ } 
+ .photo_pin_3{
+ position: absolute;
+    left: 4px;
+    top: 0px;
+ }  
+ .photo_pic_3{
+     position: absolute;
+    left: 27px;
+    bottom: 108px;
+ }
+ .photo_comment_3{
+      position: absolute;
+    bottom: 40px;
+    left: 67px;
+
+ }
+ .photo_comment_2{
+      position: absolute;
+    top: 245px;
+    left: 22px;
+   
+ }
+ .book_pic{
+background: url('../images/photo7.png') no-repeat;
+background-size: cover;
+background-position: center center;
+    min-height: 654px;
+    margin-right: -15px;
+    margin-left: 43px;     
+ }
+  .body_img1{
+background: url('../images/body_bg.png') no-repeat;
+background-size: cover;
+background-position: center center;   
+ }
+ .buy_now > button{
+ border-radius: 0px;
+ background-color: #45b4b2;
+color: white;
+    padding: 15px 46px;
+    margin-top: 11px;
+    margin-left: 40px;
+font-weight: bold;
+ }
+    .commentator{
+        color: #3eb8b5;
+        font-weight: bold;
+        padding-top: 12px;
+        padding-left: 10px;
+    }
+
+/*    psd4*/
+    
+
+.body_para1{
+    margin-top: 37px;
+    font-size: 16px;
+    padding-right: 24px;
+    text-transform: uppercase;
+    font-family: monospace;
+ }
+ .about1{
+ font-size: 30px;
+ color: #58595b;
+ padding-top: 20px;
+ text-transform: uppercase;
+ text-align: left;
+ }
+  .line{
+    background: url(../images/line.png) no-repeat;
+    background-size: contain;
+    background-position: center left;
+    position: absolute;
+    width: 65%;
+    top: 74px;
+    left: 296px;
+    padding: 2px;
+ }
+ .reinvent_img{
+    background: url(../images/.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 248px;
+    width: 92%;
+    margin-left: 36px;
+}
+.miracle > h3{
+margin-left: 36px;
+color: white; 
+font-weight: bold;
+font-family: retroitalics;
+}
+.miracle > h3 > span{
+color: #00fffb;    
+}
+.true_you > img{
+    margin: 170px 0px;    
+}
+.gift > h2{
+ color: #46bdbe;
+font-family: inherit;
+}
+.reinvent > h2{
+    color: #7a0099;
+    font-family: exmouth_;
+     font-weight: bold;
+    font-size: 45px;
+}
+.reinvent > h2 > span{
+    color: #46bdbe;
+ font-family: exmouth_;
+ font-weight: bold;
+}
+.logo2{
+    width: 54px;
+    margin-top: -8px;
+    display: inline-block;
+}
+  .author1{
+    color: #58595b;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: inline-block;
+ 
+ } 
+ .author1 > span{
+  color: #46c1be;
+ } 
+
+
+
+
+
+}
